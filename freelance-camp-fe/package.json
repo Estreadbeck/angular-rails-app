@@ -25,6 +25,7 @@
     "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.29",
     "core-js": "^2.4.1",
     "latest": "^0.2.0",
+    "npm": "^5.8.0",
     "recompile": "^1.0.1",
     "reflect-metadata": "^0.1.8",
     "rxjs": "^5.4.2",
